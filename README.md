@@ -2,5 +2,5 @@
 Paper review for the paper "Free Water Elimination and Mapping from Diffusion MRI".
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/GabrielSamberg/Free_Water_Elimination_and_Mapping_from_Diffusion_MRI/blob/main/dMRI_project.ipynb
+https://colab.research.google.com/github/GabrielSamberg/Free-Water_Elimination_and_Mapping_from_Diffusion_MRI/blob/main/dMRI_project.ipynb
 )
